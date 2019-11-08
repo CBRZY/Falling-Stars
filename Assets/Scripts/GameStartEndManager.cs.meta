@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b54e47d059f82b24e9d65402f0a3995c
+timeCreated: 1464787330
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textFinalScore: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - explosion: {fileID: 159918, guid: a0040bf7072bc2f4e82d887d50a9c5e2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

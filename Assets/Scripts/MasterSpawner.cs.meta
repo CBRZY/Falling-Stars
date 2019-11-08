@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bd633702059c9d143838f561509129d7
+timeCreated: 1473231231
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - star: {fileID: 103630, guid: 6769c68d6f05f4e4d9446ba4ea72b07d, type: 2}
+  - heart: {instanceID: 0}
+  - skull: {instanceID: 0}
+  - bomb: {instanceID: 0}
+  - shield: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
